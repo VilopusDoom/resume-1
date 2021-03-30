@@ -5,9 +5,8 @@
   var handlebarsHelpers = require("./template/HandlebarHelpers");
   var phantomjs = require('phantomjs-prebuilt');
 
-  var base = require("./MaximeRouiller.base.json");
-  var english = require("./MaximeRouiller.en.json");
-  var french = require("./MaximeRouiller.fr.json");
+  var base = require("./resume.json");
+  
 
   var compiled = __dirname + '/compiled';
   if (!fs.existsSync(compiled)) {
@@ -33,6 +32,5 @@
     program.stderr.pipe(process.stderr);
   }
 
-  render(Object.assign(base, english), 'MaximeRouiller.en');
-  render(Object.assign(base, french), 'MaximeRouiller.fr');
+  render(base, 'PocholoArangote');
 }());
