@@ -1,0 +1,150 @@
+{
+
+  "basics": {
+    "name": "Pocholo Arangote",
+    "label": "Aspiring Cyber-Security Professional",
+    "picture": "",
+    "email": "pocholoarangote@protonmail.com",
+    "phone": "647-949-4769",
+    "website": "https://pocholoarangote.ca",
+    "summary": "With extensive experience mentoring and coaching students of all ages as a Swim Instructor and Volunteer, I communicate effectively with both non technical and technical people. As a formerly trained lifeguard, I am trained to have good attention to detail. With strong communication skills, attention to detail, and my studies in Information Systems Security, I bring a customer-focused approach to the analysis and protection of clients' systems.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Brampton",
+      "countryCode": "Canada",
+      "region": "Ontario"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "Vilopus",
+      "url": "http://twitter.com/VilopusDoom"
+    }]
+  },
+  "work": [{
+    "company": "City of Brampton",
+    "position": "Swim Instructor",
+    "website": "",
+    "startDate": "2015-07",
+    "endDate": "2015-08",
+    "summary": "- Improved customer satisfaction by providing high quality swimming education to classes of up to 10 people.\n- Ensured safety of staff and customers by supervising multiple swimmers of various age groups, and being inclusive to any disabilities.\n- Assisted with basic pool maintenance to ensure a safe, orderly working environment. \n- Provided Parent/Guardian with detailed report on student success. ",
+    "highlights": [
+      ""
+    ]
+  }],
+  "volunteer": [{
+    "organization": "City of Brampton",
+    "position": "Aquatics Volunteer",
+    "website": "",
+    "startDate": "2015-01",
+    "endDate": "2017-11",
+    "summary": "- Increased effectiveness of swim instruction by assisting instructor with class and performing demonstrations.\n- Mentored weakest students one-on-one to help bring them up to class level, and hopefully pass the course.\n- Performed basic pool cleanliness procedures, and ensured compliance with rules",
+    "highlights": [
+      ""
+    ]
+  }],
+  "education": [{
+    "institution": "Sheridan College",
+    "area": "Information Systems Security",
+    "studyType": "Honours Bachelor",
+    "startDate": "2019-01",
+    "endDate": "present",
+    "gpa": "",
+    "courses": [
+      "INFO 16529 - Security Threats and Risk Assessment",
+      "INFO 39207 - Advanced Information Systems Forensics and Electronic Discovery",
+      "SYST 45713 -  Software Engineering",
+      "TELE 30004 - Network and Distributed Systems Security",
+      "DBAS 35738 - Database Security",
+      "INFO 30004 - Information Systems Security Auditing"
+    ]
+  }],
+  "awards": [{
+    "title": "ISSessions CTF 2021 11th Place",
+    "date": "2021-03-28",
+    "awarder": "ISSessions",
+    "summary": "Packet Analysis with Wireshark, Digital Forensics with Autopsy, MITRE ATT&CK Framework, OSINT"
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Intermediate",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  },{
+    "name": "Information Security",
+    "level": "Intermediate",
+    "keywords": [
+      "Risk Assessment",
+      "CIA Triangle",
+      "Defense in Depth",
+      "Security Controls",
+      "Cryptography",
+      "Digital Forensics"
+      
+    ]
+  },
+  {
+    "name": "Networking",
+    "level": "Intermediate",
+    "keywords": [
+      "Network Security",
+      "Network Administration",
+      "Packet Analysis",
+      "Wireshark"
+    ]
+  },
+  {
+    "name": "Application Development",
+    "level": "Intermediate",
+    "keywords": [
+      "C Programming",
+      "Java",
+      "Python"
+    ]
+  },
+  {
+    "name": "Databases",
+    "level": "Intermediate",
+    "keywords": [
+      "SQL",
+      "MySQL",
+      "Oracle"
+    ]
+  }
+
+],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }
+  {
+    "language": "French",
+    "fluency": "Intermediate"
+  }
+
+],
+  "interests": [{
+    "name": "Computer Hardware",
+    "keywords": [
+      "CPU",
+      "GPU",
+      "RAM",
+      "HDD/SSD"
+    ]
+  },{
+    "name": "Video Games",
+    "keywords": [
+      "FPS",
+      "RTS",
+      "Co-op"
+      
+    ]
+  }
+]
+
+  
+
+}
